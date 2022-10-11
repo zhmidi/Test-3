@@ -1,0 +1,34 @@
+#title{
+    color: gray;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.container{
+    margin: auto;
+    margin-top: 80px;
+    border: 2px solid;
+    width: 400px;
+    height: 400px;
+}
+
+input{
+    display: block;
+    margin: auto;
+    width: 250px;
+    height: 25px;
+}
+
+button{
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+
+}
+
+body{
+    background: url("https://imgs.search.brave.com/l7Pm32oUX0XHwuoaK0jrCBGYE6Su2XdKgi2eLcrNrP4/rs:fit:895:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5K/VGc1RXRvUXJvb3o5/VEtLYnFVVS1BSGFE/NyZwaWQ9QXBp");
+
+}

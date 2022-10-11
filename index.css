@@ -1,0 +1,45 @@
+#title{
+    color: gray;
+    text-align: center;
+    margin-top: 60px
+}
+
+.container{
+    margin: auto;
+    margin-top: 80px;
+
+    border: 2px solid snow ;
+    width: 400px;
+    height: 400px;
+    
+    
+}
+
+input{
+    display: block;
+    margin: auto;
+    width: 250px;
+    height: 30px;
+}
+
+button{
+    display:block;
+    margin:auto;
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+}
+
+body{
+    background: url("https://imgs.search.brave.com/EGv3A_ZgfxK6Q3RCUFZfAM7KLHxksAcZmphAG3zc0GA/rs:fit:800:600:1/g:ce/aHR0cDovL3Nkei11/cGxvYWQuczMuYW1h/em9uYXdzLmNvbS9w/cm9kL3VwbG9hZC9u/b2lyLmpwZw");
+
+}
+
+a{
+    color: white;
+    display: block;
+
+    margin: auto;
+    width: 250px;
+    height: 30px;
+}
